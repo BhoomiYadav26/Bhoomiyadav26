@@ -1,16 +1,27 @@
-## Hi there 👋
+# CodeAlpha Task 4 – Basic Chatbot
 
-<!--
-**BhoomiYadav26/Bhoomiyadav26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About the Project
+This is a simple rule-based chatbot developed using Python as part of my CodeAlpha Python Programming Internship.
 
-Here are some ideas to get you started:
+## Features
+- Greets the user
+- Responds to simple questions
+- Uses rule-based responses
+- Easy to understand Python code
+- Runs in the terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies Used
+- Python
+
+## How to Run
+1. Make sure Python is installed.
+2. Open the project folder.
+3. Run the following command:
+
+python chatbot.py
+
+## Internship
+This project is completed as part of the CodeAlpha Python Programming Internship – Task 4.
+
+## Author
+Bhoomi Yadav
